@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "313783518506",
+    "project_id": "readtogether-6e4ae",
+    "storage_bucket": "readtogether-6e4ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313783518506:android:e242c4ed18f674cce3ca53",
+        "android_client_info": {
+          "package_name": "com.xipher.readtogether"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz7dJY6xXXnUifpFIRBSy1BUdfaZShIIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
